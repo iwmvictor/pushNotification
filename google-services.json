@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "808490152295",
+    "project_id": "pushnotif-6a764",
+    "storage_bucket": "pushnotif-6a764.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808490152295:android:94e328ddc5f9ad9ca03fc2",
+        "android_client_info": {
+          "package_name": "com.iwmvictor.pushNotif"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHLKRNyhZghBPa8s1JKlYI3G97h65vrHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
