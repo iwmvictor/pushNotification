@@ -13,7 +13,11 @@
 
 ## Push Notifications Setup
 
-Learn how to set up push notifications for your React Native app using Expo Notifications. Expo Notifications currently supports the Cloud Messaging API (Legacy) key, which is deprecated by Firebase but will continue to work until June 20, 2024.
+This is React Native Push Notification codes, and you may need to refer yourself to following documents and resources:
+- **1** [Expo push notification setup](https://docs.expo.dev/push-notifications/push-notifications-setup/)
+- **2** [Firebase a/c](https://console.firebase.google.com/)
+- **3** [Expo.dev a/c](https://expo.dev/)
+- **For more reach out to me**
 
 ### Prerequisites
 
